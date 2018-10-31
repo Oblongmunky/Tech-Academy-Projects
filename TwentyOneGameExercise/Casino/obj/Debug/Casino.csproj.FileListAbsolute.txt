@@ -1,0 +1,6 @@
+C:\Users\grund\source\repos\TwentyOneGameExercise\Casino\bin\Debug\Casino.dll
+C:\Users\grund\source\repos\TwentyOneGameExercise\Casino\bin\Debug\Casino.pdb
+C:\Users\grund\source\repos\TwentyOneGameExercise\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\TwentyOneGameExercise\Casino\obj\Debug\Casino.dll
+C:\Users\grund\source\repos\TwentyOneGameExercise\Casino\obj\Debug\Casino.pdb
+C:\Users\grund\source\repos\TwentyOneGameExercise\Casino\obj\Debug\Casino.csprojAssemblyReference.cache

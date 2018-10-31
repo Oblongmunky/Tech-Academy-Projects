@@ -1,0 +1,10 @@
+C:\Users\grund\source\repos\TwentyOneGameExercise\TwentyOneGameExercise\bin\Debug\TwentyOneGameExercise.exe.config
+C:\Users\grund\source\repos\TwentyOneGameExercise\TwentyOneGameExercise\bin\Debug\TwentyOneGameExercise.exe
+C:\Users\grund\source\repos\TwentyOneGameExercise\TwentyOneGameExercise\bin\Debug\TwentyOneGameExercise.pdb
+C:\Users\grund\source\repos\TwentyOneGameExercise\TwentyOneGameExercise\obj\Debug\TwentyOneGameExercise.csprojAssemblyReference.cache
+C:\Users\grund\source\repos\TwentyOneGameExercise\TwentyOneGameExercise\obj\Debug\TwentyOneGameExercise.csproj.CoreCompileInputs.cache
+C:\Users\grund\source\repos\TwentyOneGameExercise\TwentyOneGameExercise\obj\Debug\TwentyOneGameExercise.exe
+C:\Users\grund\source\repos\TwentyOneGameExercise\TwentyOneGameExercise\obj\Debug\TwentyOneGameExercise.pdb
+C:\Users\grund\source\repos\TwentyOneGameExercise\TwentyOneGameExercise\bin\Debug\Casino.dll
+C:\Users\grund\source\repos\TwentyOneGameExercise\TwentyOneGameExercise\bin\Debug\Casino.pdb
+C:\Users\grund\source\repos\TwentyOneGameExercise\TwentyOneGameExercise\obj\Debug\TwentyOneGameExercise.csproj.CopyComplete
